@@ -1,6 +1,6 @@
 # portfoliowithres
 portfolio with responsive nav-using hyperlinks written or verbal summary of a collection of work, projects, or assets that an individual or organization has compiled over time. Portfolios are commonly used in various fields, including art, design, photography, writing, education, finance, and more, to showcase one's accomplishments, skills, and expertise. The purpose of a portfolio description is to provide context and information about the contents of the portfolio. Here's what a portfolio description might include
-https://github.com/rtamilarasan11/portfoliowithres/blob/0128c3a2f9528403765ab4f43a1177c5fff64eff/image.png
+https://github.com/rtamilarasan11/portfoliowithres/blob/main/image.png
 
 Introduction: Start with an introductory statement that provides an overview of the portfolio's purpose and the type of work it contains.
 Objectives: Explain the goals and objectives of the portfolio. What do you aim to achieve with this collection of work?
